@@ -7,7 +7,7 @@ I also hold a bachelor’s degree in Architecture from [Tongji University](https
 
 
 My research interests are in information visualization and perception.
-Currently, I am working on tradition-inspired visualization, exploring [how to optimize the use of black-and-white textures for visualizations](https://tingying-he.github.io/projects/He_2024_Textures.html).
+Currently, I am exploring [how to optimize the use of black-and-white textures for visualizations](https://tingying-he.github.io/projects/He_2024_Textures.html).
 In addition, I have studied the [aesthetic judgment of visualizations](https://tingying-he.github.io/projects/He_2023_BeauVis.html).
 
 To know more about me, you can visit my personal website: https://tingying-he.github.io/
