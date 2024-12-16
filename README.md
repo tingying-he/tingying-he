@@ -1,6 +1,5 @@
-Hi, I am Tingying He,
-
-I am a research scientist at University of Utah. My research focuses on information visualization. To know more about me, you can visit my personal website: https://tingying-he.github.io/
+Hi, I’m Tingying. I’m a Research Scientist at the University of Utah, specializing in information visualization. 
+To learn more about me, please visit my personal website: https://tingying-he.github.io/.
 
 <!---
 tingying-he/tingying-he is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
